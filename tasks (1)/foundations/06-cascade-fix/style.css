@@ -1,0 +1,36 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.para.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.para {
+  font-size: 22px;
+  font-weight: bolder;
+}
+
+.button.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.button.cancel {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  font-size: 20px;
+}
+
+.text.child {
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.text {
+  font-size: 22px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
